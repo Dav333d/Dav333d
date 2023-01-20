@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dav333d
-- 👀 I’m interested in Football, Music and Learning
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in Coding, Football, Music and Learning
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on any frontend development job
 - 📫 How to reach me 09077215066
 
