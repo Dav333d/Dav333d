@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dav333d
-- 👀 I’m interested in Coding, Football, Music and Learning
+- 👀 I’m interested in Coding, Football, and Formula 1
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on any frontend development job
-- 📫 How to reach me 09077215066
+- 💞️ I’m looking to collaborate on any Mobile Application development job
+- 📫 How to reach me: 07025158740
 
 <!---
 Dav333d/Dav333d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
